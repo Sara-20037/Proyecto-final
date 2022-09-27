@@ -1,0 +1,11 @@
+Model Information:
+* title:	Niño
+* source:	https://sketchfab.com/3d-models/nino-49bd7b3283914125917614be35963fdb
+* author:	Dacoher (https://sketchfab.com/Dacoher)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Niño" (https://sketchfab.com/3d-models/nino-49bd7b3283914125917614be35963fdb) by Dacoher (https://sketchfab.com/Dacoher) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
